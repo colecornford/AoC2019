@@ -1,0 +1,11 @@
+Lessons Learned:
+
+I had a lot of trouble with multi-dimensional slice declaration. It shouldn't have taken me so long.
+
+I initially got frustrated at having repetitive test code before i got to my final test code.
+Early refactoring and optimisation cost me a lot of early time.
+
+I was having issues with reference/value typing in Golang for Slices. I found storing the values from each
+address in variables ended up a lot simpler and more readable than directly referencing the array.
+
+Part 2 took me 2 minutes, evidently theres a better approach using memoization but im lazy.
