@@ -1,0 +1,6 @@
+Lessons Learned:
+
+Think about the data structure, this looked like a hashmap, thankfulyl i spent some time researching
+the problem and it turns out that was the right choice.
+
+Otherwise wasnt too bad.
