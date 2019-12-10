@@ -1,0 +1,8 @@
+Lessons Learned:
+
+3 beers before programming mightn't be a good idea, guess we will see!
+
+Give yourself more time than you think you need.
+Never drink alcohol ever before beginning programming at any point.
+
+Restart this codebase and think a bit more about what data structure you should use instead.
